@@ -1,0 +1,8 @@
+{
+  "name": "JEE Companion",
+  "description": "Plan Smarter. Study Better. Crack JEE. An intelligent study management companion with full syllabus tracking, backlog recovery, mock test analytics, and smart planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
